@@ -37,7 +37,6 @@ predicted_img = np.argmax(prediction, axis = 3)[0, :, :]
 # Criar a máscara binária
 binary_mask = create_binary_mask(predicted_img, segmentation_threshold)
 
-# Exibir a imagem segmentada usando o mapa de calor
 plt.figure(figsize = (18, 6))
 plt.subplot(331)
 plt.title('Imagem Original')
