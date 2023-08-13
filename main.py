@@ -51,7 +51,7 @@ plt.imshow(binary_mask, cmap = 'gray')
 plt.tight_layout()
 plt.show()
 
-# Dividir imagens em 128x128 e fazer a segmentação da imagem
+# Dividir imagem grande em subimagens 128x128px, segmentá-las e concatená-las.
 large_image = cv2.imread('images/large_img.tif', 0)
 patches = patchify(large_image, (128, 128), step = 128)
 predicted_patches = []
