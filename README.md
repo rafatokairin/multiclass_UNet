@@ -2,4 +2,10 @@
 
 - U-Net é uma rede neural convolucional que foi desenvolvida para segmentação de imagens biomédicas.
 
+- os resultados são 4 classes de segmentação: vermelho (pirita), amarelo (quartzo), azul claro (argila), azul escuro (ar).
+
 *obs: nesse caso eu treinei apenas com 50 épocas.
+
+# petrologia:
+
+- a mineralogia é importante para entender o valor de um reservatório de hidrocarbonetos. muito espaço poroso é bom porque potencialmente retém os hidrocarbonetos, o quartzo é bom porque é quebradiço e fácil de fraturar, a argila é ruim porque não fratura facilmente e também tem potencial para expandir em contato com a água e entupir o reservatório.
