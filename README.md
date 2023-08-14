@@ -8,4 +8,4 @@
 
 # petrologia:
 
-- a mineralogia é importante para entender o valor de um reservatório de hidrocarbonetos. muito espaço poroso é bom porque potencialmente retém os hidrocarbonetos, o quartzo é bom porque é quebradiço e fácil de fraturar, a argila é ruim porque não fratura facilmente e também tem potencial para expandir em contato com a água e entupir o reservatório.
+- a mineralogia é importante para entender o valor de um reservatório de hidrocarbonetos. muito espaço poroso no arenito é bom porque potencialmente retém os hidrocarbonetos, o quartzo é bom porque é quebradiço e fácil de fraturar, a argila é ruim porque não fratura facilmente e também tem potencial para expandir em contato com a água e entupir o reservatório.
