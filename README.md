@@ -2,7 +2,7 @@
 
 - U-Net é uma rede neural convolucional que foi desenvolvida para segmentação de imagens biomédicas.
 
-- os resultados são 4 classes de segmentação: vermelho (pirita), amarelo (quartzo), azul claro (argila), azul escuro (ar).
+- os resultados são 4 classes da segmentação de uma imagem de minerais de arenito ao microscópio: vermelho (pirita), amarelo (quartzo), azul claro (argila), azul escuro (ar).
 
 *obs: nesse caso eu treinei apenas com 50 épocas com 1600 imagens 128x128px.
 
