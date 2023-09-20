@@ -8,7 +8,7 @@
 
 ## petrology:
 
-mineralogy is important for understanding the value of a hydrocarbon reservoir. A lot of porous space in sandstone is good because it potentially retains hydrocarbons. Quartz is good because it is brittle and easy to fracture, while clay is unfavorable because it does not fracture easily and also has the potential to expand upon contact with water, potentially blocking the reservoir.
+mineralogy is important for understanding the value of a hydrocarbon reservoir. a lot of porous space in sandstone is good because it potentially retains hydrocarbons. quartz is good because it is brittle and easy to fracture, while clay is unfavorable because it does not fracture easily and also has the potential to expand upon contact with water, potentially blocking the reservoir.
 
 # 🇧🇷 U-Net
 
