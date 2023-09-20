@@ -1,4 +1,16 @@
-# U-Net
+# 🇺🇸 U-Net
+
+- U-Net is a convolutional neural network developed for biomedical image segmentation.
+
+- the results consist of four classes of segmentation for an image of sandstone minerals under a microscope: red (pyrite), yellow (quartz), light blue (clay), dark blue (air).
+
+*note: In this case, I trained it for only 50 epochs with 1600 images of size 128x128 pixels.
+
+# petrology:
+
+mineralogy is important for understanding the value of a hydrocarbon reservoir. A lot of porous space in sandstone is good because it potentially retains hydrocarbons. Quartz is good because it is brittle and easy to fracture, while clay is unfavorable because it does not fracture easily and also has the potential to expand upon contact with water, potentially blocking the reservoir.
+
+# 🇧🇷 U-Net
 
 - U-Net é uma rede neural convolucional que foi desenvolvida para segmentação de imagens biomédicas.
 
