@@ -4,7 +4,7 @@
 
 - the results consist of four classes of segmentation for an image of sandstone minerals under a microscope: red (pyrite), yellow (quartz), light blue (clay), dark blue (air).
 
-*note: In this case, I trained it for only 50 epochs with 1600 images of size 128x128 pixels.
+*note: in this case, I trained it for only 50 epochs with 1600 images of size 128x128 pixels.
 
 ## petrology:
 
