@@ -6,7 +6,7 @@
 
 *note: In this case, I trained it for only 50 epochs with 1600 images of size 128x128 pixels.
 
-# petrology:
+## petrology:
 
 mineralogy is important for understanding the value of a hydrocarbon reservoir. A lot of porous space in sandstone is good because it potentially retains hydrocarbons. Quartz is good because it is brittle and easy to fracture, while clay is unfavorable because it does not fracture easily and also has the potential to expand upon contact with water, potentially blocking the reservoir.
 
@@ -18,6 +18,6 @@ mineralogy is important for understanding the value of a hydrocarbon reservoir. 
 
 *obs: nesse caso eu treinei apenas 50 épocas com 1600 imagens 128x128px.
 
-# petrologia:
+## petrologia:
 
 a mineralogia é importante para entender o valor de um reservatório de hidrocarbonetos. muito espaço poroso no arenito é bom porque potencialmente retém os hidrocarbonetos, o quartzo é bom porque é quebradiço e fácil de fraturar, a argila é ruim porque não fratura facilmente e também tem potencial para expandir em contato com a água e entupir o reservatório.
